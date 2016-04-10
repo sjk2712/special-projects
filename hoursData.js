@@ -2299,7 +2299,7 @@ var hoursData = [
     "Charged":1.25,
     "Customer":"AEP",
     "Type":"LPR (loss)",
-    "Reason":"Abnormal Receiving",3/
+    "Reason":"Abnormal Receiving",
     "Comments":"",
     "HoursComplete":"Y"
   },
